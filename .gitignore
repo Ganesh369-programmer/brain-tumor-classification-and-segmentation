@@ -1,0 +1,15 @@
+# Local MRI dataset
+dataset/
+
+# Trained model (larger than GitHub's 100 MB file limit)
+models/*.keras
+
+# Generated montage may contain dataset images
+results/sample_images.png
+
+# Python environments and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

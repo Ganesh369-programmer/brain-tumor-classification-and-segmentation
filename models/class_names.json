@@ -1,0 +1,19 @@
+{
+  "class_names": [
+    "glioma_tumor",
+    "meningioma_tumor",
+    "no_tumor",
+    "pituitary_tumor"
+  ],
+  "display_names": {
+    "glioma_tumor": "Glioma",
+    "meningioma_tumor": "Meningioma",
+    "pituitary_tumor": "Pituitary",
+    "no_tumor": "No Tumor"
+  },
+  "img_size": [
+    224,
+    224
+  ],
+  "preprocessing": "RGB, resize to 224x224, divide by 255.0 (float32, range 0-1)"
+}
