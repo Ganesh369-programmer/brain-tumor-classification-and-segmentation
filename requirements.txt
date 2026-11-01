@@ -7,3 +7,4 @@ opencv-python
 Pillow
 jupyter
 streamlit
+h5py

@@ -1,0 +1,7 @@
+class,precision,recall,f1,specificity,support
+Glioma,0.7188,0.2300,0.3485,0.9694,100
+Meningioma,0.6735,0.8609,0.7557,0.8280,115
+No Tumor,0.7920,0.9429,0.8609,0.9100,105
+Pituitary,0.7667,0.9324,0.8415,0.9344,74
+macro avg,0.7377,0.7415,0.7016,,394
+weighted avg,0.7341,0.7360,0.6965,,394

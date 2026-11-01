@@ -1,0 +1,8 @@
+{
+  "classification": {
+    "test_accuracy_percent": 73.6,
+    "test_images": 394,
+    "macro_f1": 0.7016,
+    "uncertain_percent": 11.7
+  }
+}

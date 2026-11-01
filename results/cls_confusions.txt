@@ -1,0 +1,11 @@
+Most common mistakes (true class -> predicted class):
+   46 images (46.0% of true Glioma): Glioma predicted as Meningioma
+   18 images (18.0% of true Glioma): Glioma predicted as No Tumor
+   13 images (13.0% of true Glioma): Glioma predicted as Pituitary
+    8 images (7.0% of true Meningioma): Meningioma predicted as No Tumor
+    7 images (6.1% of true Meningioma): Meningioma predicted as Pituitary
+    5 images (6.8% of true Pituitary): Pituitary predicted as Glioma
+    3 images (2.9% of true No Tumor): No Tumor predicted as Glioma
+    2 images (1.9% of true No Tumor): No Tumor predicted as Meningioma
+    1 images (1.0% of true No Tumor): No Tumor predicted as Pituitary
+    1 images (0.9% of true Meningioma): Meningioma predicted as Glioma
